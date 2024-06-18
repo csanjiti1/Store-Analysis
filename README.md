@@ -5,4 +5,5 @@ Dataset is acquired from public platform , Youtube . This is public dataset and 
 # Acknowledgement
 Thank you Rishabh Mishra for the guidance .
 
-
+# Dashboard
+![Dashboard](https://github.com/csanjiti1/Store-Analysis/blob/main/Screenshot%202024-06-18%20at%2012.10.35.png)
