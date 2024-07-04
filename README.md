@@ -10,4 +10,4 @@ This project is performed on excel , with a public dataset of a small store and 
 ![Dashboard](https://github.com/csanjiti1/Store-Analysis/blob/main/Screenshot%202024-06-18%20at%2012.10.35.png)
 
 # Conclusion
-This dataset is public and can be used by anybody for further analysis
+This dataset is public and can be used by anybody for further analysis. The excel file is also placed in the repository for further review and attached above a screenshot of the dashboard designed .
